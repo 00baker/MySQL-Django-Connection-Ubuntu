@@ -15,7 +15,7 @@
 
 4. We need to give our user some database rights `GRANT ALL PRIVILEGES ON database_name.* TO user_name@localhost;`.
 
-![])(/img/mysql-django3.png)
+![](/img/mysql-django3.png)
 
 ### Connection to Django
 
